@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\galya\\source\\repos\\AftoSpravochnic\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7CB27599-FBC9-4C2B-9BC9-C273D43A7004}|AftoSpravochnic\\AftoSpravochnic.csproj|c:\\users\\galya\\source\\repos\\aftospravochnic\\aftospravochnic\\viewcarpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7CB27599-FBC9-4C2B-9BC9-C273D43A7004}|AftoSpravochnic\\AftoSpravochnic.csproj|solutionrelative:aftospravochnic\\viewcarpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7CB27599-FBC9-4C2B-9BC9-C273D43A7004}|AftoSpravochnic\\AftoSpravochnic.csproj|C:\\Users\\galya\\source\\repos\\AftoSpravochnic\\aftospravochnic\\addcarpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7CB27599-FBC9-4C2B-9BC9-C273D43A7004}|AftoSpravochnic\\AftoSpravochnic.csproj|solutionrelative:aftospravochnic\\addcarpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CB27599-FBC9-4C2B-9BC9-C273D43A7004}|AftoSpravochnic\\AftoSpravochnic.csproj|c:\\users\\galya\\source\\repos\\aftospravochnic\\aftospravochnic\\viewcarpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CB27599-FBC9-4C2B-9BC9-C273D43A7004}|AftoSpravochnic\\AftoSpravochnic.csproj|solutionrelative:aftospravochnic\\viewcarpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7CB27599-FBC9-4C2B-9BC9-C273D43A7004}|AftoSpravochnic\\AftoSpravochnic.csproj|C:\\Users\\galya\\source\\repos\\AftoSpravochnic\\aftospravochnic\\mainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -34,11 +34,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "ViewCarPage.cs",
               "DocumentMoniker": "C:\\Users\\galya\\source\\repos\\AftoSpravochnic\\AftoSpravochnic\\ViewCarPage.cs",
               "RelativeDocumentMoniker": "AftoSpravochnic\\ViewCarPage.cs",
@@ -52,13 +52,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "AddCarPage.cs",
               "DocumentMoniker": "C:\\Users\\galya\\source\\repos\\AftoSpravochnic\\AftoSpravochnic\\AddCarPage.cs",
               "RelativeDocumentMoniker": "AftoSpravochnic\\AddCarPage.cs",
               "ToolTip": "C:\\Users\\galya\\source\\repos\\AftoSpravochnic\\AftoSpravochnic\\AddCarPage.cs",
               "RelativeToolTip": "AftoSpravochnic\\AddCarPage.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACAAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-28T14:01:03.111Z",
               "EditorCaption": ""
@@ -73,8 +73,7 @@
               "RelativeToolTip": "AftoSpravochnic\\MainPage.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAQwBcAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-28T13:58:53.306Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-28T13:58:53.306Z"
             },
             {
               "$type": "Document",
@@ -85,8 +84,7 @@
               "ToolTip": "C:\\Users\\galya\\source\\repos\\AftoSpravochnic\\AftoSpravochnic\\ViewCarPage.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "RelativeToolTip": "AftoSpravochnic\\ViewCarPage.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-28T13:55:58.864Z",
-              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+              "WhenOpened": "2024-12-28T13:55:58.864Z"
             },
             {
               "$type": "Document",
@@ -109,8 +107,7 @@
               "ToolTip": "C:\\Users\\galya\\source\\repos\\AftoSpravochnic\\AftoSpravochnic\\MainPage.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "RelativeToolTip": "AftoSpravochnic\\MainPage.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-28T13:55:04.052Z",
-              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+              "WhenOpened": "2024-12-28T13:55:04.052Z"
             }
           ]
         }

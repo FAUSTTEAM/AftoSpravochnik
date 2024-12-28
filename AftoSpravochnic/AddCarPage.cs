@@ -29,7 +29,8 @@ namespace AftoSpravochnic
             Label lblColor = new Label();
             Label lblPrice = new Label();
 
-            
+            lblMake.Text = "Марка:";
+            lblMake.Text = "Марка:";
             lblModel.Text = "Модель:";
             lblYear.Text = "Год:";
             lblColor.Text = "Цвет:";
