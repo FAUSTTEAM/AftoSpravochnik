@@ -1,0 +1,12 @@
+C:\Users\galya\source\repos\AftoSpravochnic\AftoSpravochnic\bin\Debug\AftoSpravochnic.exe.config
+C:\Users\galya\source\repos\AftoSpravochnic\AftoSpravochnic\bin\Debug\AftoSpravochnic.exe
+C:\Users\galya\source\repos\AftoSpravochnic\AftoSpravochnic\bin\Debug\AftoSpravochnic.pdb
+C:\Users\galya\source\repos\AftoSpravochnic\AftoSpravochnic\obj\Debug\AftoSpravochnic.csproj.AssemblyReference.cache
+C:\Users\galya\source\repos\AftoSpravochnic\AftoSpravochnic\obj\Debug\AftoSpravochnic.AddCarPage.resources
+C:\Users\galya\source\repos\AftoSpravochnic\AftoSpravochnic\obj\Debug\AftoSpravochnic.MainPage.resources
+C:\Users\galya\source\repos\AftoSpravochnic\AftoSpravochnic\obj\Debug\AftoSpravochnic.Properties.Resources.resources
+C:\Users\galya\source\repos\AftoSpravochnic\AftoSpravochnic\obj\Debug\AftoSpravochnic.ViewCarPage.resources
+C:\Users\galya\source\repos\AftoSpravochnic\AftoSpravochnic\obj\Debug\AftoSpravochnic.csproj.GenerateResource.cache
+C:\Users\galya\source\repos\AftoSpravochnic\AftoSpravochnic\obj\Debug\AftoSpravochnic.csproj.CoreCompileInputs.cache
+C:\Users\galya\source\repos\AftoSpravochnic\AftoSpravochnic\obj\Debug\AftoSpravochnic.exe
+C:\Users\galya\source\repos\AftoSpravochnic\AftoSpravochnic\obj\Debug\AftoSpravochnic.pdb
